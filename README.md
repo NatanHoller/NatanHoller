@@ -15,6 +15,7 @@ Sou estudante de tecnologia da informação, estou aprendendo programação e de
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
+
  📫 Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-red)](mailto:natanholler@gmail.com)
 
