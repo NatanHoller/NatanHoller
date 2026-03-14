@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there/Olá 👋
 
-<!--
-**NatanHoller/NatanHoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muito prazer! Meu nome é Natã Holler
 
-Here are some ideas to get you started:
+Sou estudante de tecnologia da informação, estou aprendendo programação e desenvolvimento web. Atualmente estou estudando **Python, HTML, CSS e SQL** e pretendo evoluir minhas habilidades como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+ 👨🏻‍💻 Tecnologias que estou estudando:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+ 📫 Contato:
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red)](mailto:natanholler@gmail.com)
+
 -->
