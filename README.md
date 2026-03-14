@@ -1,6 +1,6 @@
-## Hi there/Olá 👋
+## Hi there 👋
 
-Muito prazer! Meu nome é Natã Holler
+Olá Muito prazer! Meu nome é Natã Holler.
 
 Sou estudante de tecnologia da informação, estou aprendendo programação e desenvolvimento web. Atualmente estou estudando **Python, HTML, CSS e SQL** e pretendo evoluir minhas habilidades como desenvolvedor.
 
